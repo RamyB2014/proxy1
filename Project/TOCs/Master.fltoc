@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -32,7 +32,7 @@
       Link="/Content/D_Images/Positioned Images.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/D_Images/ImagePositionedLeft.htm" />
+        Link="/Content/B_Links and Lists/ImagePositionedLeft.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/D_Images/ImagePositionedRight.htm" />
